@@ -16,6 +16,7 @@ DOMAIN,emby2.misakaf.org
 
 # > Polo
 DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN,auto.polodns.xyz
 
 # > 剧狗
 DOMAIN,ju.dog
