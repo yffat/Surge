@@ -18,9 +18,6 @@ DOMAIN,emby2.misakaf.org
 DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN,auto.polodns.xyz
 
-# > 剧狗
-DOMAIN,ju.dog
-
 # > Marmot
 DOMAIN-SUFFIX,20120714.xyz
 
