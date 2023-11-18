@@ -1,10 +1,11 @@
 # Update: 2023-11-18
 
-# > 水母, not VIP
+# > 水母 公服
 DOMAIN,ws1.jellyfin.asia
 
-# > ACA机场服
-DOMAIN-SUFFIX,aca.best
+# > ACA 机场服
+DOMAIN,emby.aca.best
+DOMAIN,porn.aca.best
 
 # > CC
 DOMAIN,cc.ccemby.tk
@@ -12,7 +13,7 @@ DOMAIN,cc.ccemby.tk
 # > 魔法
 DOMAIN-SUFFIX,freetz.top
 
-# > MisakaF, not VIP
+# > MisakaF 公服
 DOMAIN,cdn2.misakaf.org
 DOMAIN,emby2.misakaf.org
 
@@ -32,7 +33,7 @@ DOMAIN-SUFFIX,mjjemby.org
 DOMAIN,embymv.tk
 
 # > 尘烬
-DOMAIN-SUFFIX,free.emby.eu.org
+DOMAIN-SUFFIX,emby.eu.org
 
 # > 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com
@@ -41,19 +42,20 @@ DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,emby.wtf
 
 # > EmbyPlus纸片人
-DOMAIN-SUFFIX,embyplus.org
+DOMAIN,embyplus.org
 
 # > 二次元
 DOMAIN,media.nijigem.by
 
 # > PiliPili
-DOMAIN-SUFFIX,emby77.org
+DOMAIN,emby.pilipiliultra.top
+DOMAIN,emby.pilipiliultra.com
 
 # > 1111
 DOMAIN-SUFFIX,xmsl.org
 
 # > hxd
-DOMAIN,bili.bili.rip
+DOMAIN-SUFFIX,bili.rip
 
 # > TreeDiagram
 DOMAIN,789.123456.al
