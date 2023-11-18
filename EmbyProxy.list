@@ -1,7 +1,41 @@
 # Update: 2023-11-18
 
 # > 水母, not VIP
-DOMAIN,vip1.jellyfin.asia
+DOMAIN,ws1.jellyfin.asia
 
 # > MisakaF, not VIP
-DOMAIN,embyvip.misakaf.org
+DOMAIN,cdn2.misakaf.org
+DOMAIN,emby2.misakaf.org
+
+# > ACA机场服
+DOMAIN-SUFFIX,aca.best
+
+# > Polo
+DOMAIN-SUFFIX,poloemby.xyz
+
+# > CC
+DOMAIN,cc.ccemby.tk
+
+# > 
+DOMAIN-SUFFIX,ju.dog
+
+# > 
+DOMAIN-SUFFIX,freetz.top
+
+# > 
+DOMAIN-SUFFIX,20120714.xyz
+
+# > 
+DOMAIN-SUFFIX,mjjemby.org
+
+# > 
+DOMAIN-SUFFIX,embymv.tk
+
+# > 
+DOMAIN-SUFFIX,emby.eu.org
+
+# > 
+DOMAIN-SUFFIX,jms2.emby.pro
+
+# > 
+DOMAIN-SUFFIX,emby.wtf
